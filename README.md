@@ -1,7 +1,5 @@
 ![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=zznop&show_icons=true)
 
-- 🔭 I’m currently working on sploit, an exploit development package for Go
-
 <!--
 **zznop/zznop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
